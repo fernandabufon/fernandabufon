@@ -1,4 +1,4 @@
-## Olá! Sou a Fernanda Bufon, Técnica em Informática e futura Cientista de Dados!
+## Olá! Sou a Fernanda Bufon, bacharelanda em Inteligência Artificial!
 
 
 <div align="center">
