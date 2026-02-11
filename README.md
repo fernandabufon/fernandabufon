@@ -1,4 +1,4 @@
-## Olá! Sou a Fernanda Bufon, bacharelanda em Inteligência Artificial!
+## Olá! Sou a Fernanda Bufon, bacharel em Inteligência Artificial pela UFG e pesquisadora de NLP!
 
 
 <div align="center">
